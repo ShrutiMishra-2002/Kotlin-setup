@@ -1,6 +1,6 @@
 # Kotlin Setup
 <br>
-<img src="kotlinlogo.png" alt="vscode" width="500px" height="200px">
+<img src="kotlinlogo.png" alt="vscode" width="500px" height="300px">
 <br><br><br>
 <h2> What setup do you need for Kotlin to work on your VScode? :hammer_and_wrench:	 </h2>
 <br><br>
