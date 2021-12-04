@@ -1,6 +1,6 @@
 # Kotlin Setup
 <br>
-<img src=kotlinlogo.png" alt="vscode" width="500px" height="200px">
+<img src="kotlinlogo.png" alt="vscode" width="500px" height="200px">
 <br><br><br>
 <h2> What setup do you need for Kotlin to work on your VScode? : </h2>
 <br><br>
@@ -9,7 +9,7 @@
 <br><br>
 <a href ="https://code.visualstudio.com/download">DOWNLOAD FROM HERE</a>
 <br><br>
-<img src=vscode.png" alt="vscode" width="800px" height="500px">
+<img src="vscode.png" alt="vscode" width="800px" height="500px">
 
 <h3>Extension for kotlin:	</h3>
 <p>Just type kotlin in your extension search box :mag_right:	</p>
