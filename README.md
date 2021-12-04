@@ -5,13 +5,13 @@
 <h2> What setup do you need for Kotlin to work on your VScode? : </h2>
 <br><br>
 
-<h3>Install VScode:sweat_smile:	</h3>
+<h3>Install VScode:	</h3>
 <br><br>
 <a href ="https://code.visualstudio.com/download">DOWNLOAD FROM HERE</a>
 <br><br>
 <img src="vscode.png" alt="vscode" width="800px" height="500px">
 
-<h3>Extension for kotlin:	</h3>
+<h2>Extension for kotlin:	</h2>
 <p>Just type kotlin in your extension search box :mag_right:	</p>
 <br><br>
 <img src="extension.png" alt="extension" width="800px" height="500px">
@@ -22,7 +22,7 @@
 <br><br>
 <img src="kotlin.png" alt="kotlin" width="800px" height="500px">
 
-<h3>Install Java</h3>
+<h2>Install Java</h2>
 <br><br>
 <a href ="https://www.java.com/download/ie_manual.jsp">DOWNLOAD FROM HERE</a>
 <br><br>
