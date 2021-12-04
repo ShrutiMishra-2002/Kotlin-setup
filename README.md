@@ -25,6 +25,9 @@
 <br><br>
 <img src="kotlin.png" alt="kotlin" width="800px" height="500px">
 <br><br>
+<img src="kotlin1.png" alt="kotlin" width="800px" height="500px">
+<br><br>
+
 
 <h2>Install Java::page_facing_up:	</h2>
 <br><br>
